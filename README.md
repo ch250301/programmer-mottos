@@ -5,3 +5,4 @@
 ## 3. Garbage In, Garbage Out
 ## 4. Use Your Tools
 ## 5. NEVER Assume
+## 6. Some things are true whether we want them to be or not
